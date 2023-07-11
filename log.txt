@@ -1,0 +1,22 @@
+июл. 06, 2023 8:38:51 PM code main
+INFO: element: 8
+июл. 06, 2023 8:38:52 PM code main
+INFO: element: 2
+июл. 06, 2023 8:38:52 PM code main
+INFO: element: 3
+июл. 06, 2023 8:38:52 PM code main
+INFO: element: 3
+июл. 06, 2023 8:38:52 PM code main
+INFO: element: 3
+июл. 06, 2023 8:38:52 PM code main
+INFO: element: 9
+июл. 06, 2023 8:38:52 PM code main
+INFO: element: 3
+июл. 06, 2023 8:38:52 PM code main
+INFO: element: 9
+июл. 06, 2023 8:38:52 PM code main
+INFO: element: 1
+июл. 06, 2023 8:38:52 PM code main
+INFO: element: 1
+июл. 06, 2023 8:38:52 PM code main
+WARNING: logger off
